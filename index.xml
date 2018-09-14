@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Han on Dan Han</title>
+    <link>https://dhan1024.github.io/</link>
+    <description>Recent content in Dan Han on Dan Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hospital Financial Outcomes under the 340B Drug Pricing Program – A Tale of Two Payment Systems (Working Paper)</title>
+      <link>https://dhan1024.github.io/project/working-340b-hospital-financial-outcome/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhan1024.github.io/project/working-340b-hospital-financial-outcome/</guid>
+      <description>&lt;p&gt;Roughly 45% of US hospitals participate in the 340B Drug Pricing Program, which entitles participants to steep discounts for purchasing most outpatient drugs. Due to different underlying payment structure and payer mix, the financial implication of 340B could differ widely based on whether a hospital is a typical acute care hospital or a Critical Access Hospital (CAH). In this work, I seek to quantify the financial impact of 340B on hospitals and capture intra-hospital spillover by studying hospital pharmacy staffing and service offering. For both CAHs and non-CAH hospitals, I use event studies that focus on estimating level shifts and/or trend breaks in the outcome around the time that a hospital joins 340B. For non-CAH hospitals, I also use a fuzzy regression discontinuity (RD) design that exploits the 340B DSH threshold these hospitals are subject to. I find that, 340B leads to lower profit but better liquidity for CAHs, and it increases profit for non-CAH hospitals but has no effect on liquidity. At both types of hospitals, I observe an expansion of pharmacy staffing due to 340B. As CAHs experience a decline in profit, their ability to offer less profitable services is also undermined. On the other hand, while non-CAH hospitals enjoy better financial outcome as a result of 340B, I do not find an increase in the probability of these hospitals offering less profitable services. Overall, event studies and RD produce consistent results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Impact of the 340B Drug Pricing Program on Outpatient Drug Utilitzation and Spending at Critical Access Hospitals (Job Market Paper)</title>
+      <link>https://dhan1024.github.io/project/jmp-340b-critical-access-hospitals-part-b-drug/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhan1024.github.io/project/jmp-340b-critical-access-hospitals-part-b-drug/</guid>
+      <description>&lt;p&gt;The 340B Drug Pricing Program allows qualifying public and not-for-profit providers to acquire most outpatient drugs from manufacturers at discounted prices. Since the Affordable Care Act (ACA) extended 340B eligibility, over 1,000 Critical Access Hospitals (CAHs) have joined the program. Because CAHs are reimbursed by Medicare at 101% of costs, they receive less payment per Medicare Part B drug under 340B, which leads to unique incentives of which the impact and implication are not well understood. In this study, I examine the effects of 340B on Medicare Part B drug utilization and spending among patients treated in CAHs through the ACA&amp;rsquo;s 340B expansion. Using difference-in-difference methods, I find that the 340B expansion led to a significant decline in total payment and beneficiary cost sharing for Part B drugs per patient without any obvious effect on Part B drug utilization. Since Part B coinsurance at CAHs is based on charges (list prices) instead of total payment, I show that the observed negative effect of 340B on beneficiary cost sharing has been driven by CAHs reducing the average unit charge for outpatient drugs. I also argue that CAHs were not motivated financially to pass along 340B discounts to patients.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

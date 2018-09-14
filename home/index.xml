@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Dan Han</title>
+    <link>https://dhan1024.github.io/home/</link>
+    <description>Recent content in Homes on Dan Han</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://dhan1024.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://dhan1024.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://dhan1024.github.io/home/about/</guid>
+      <description>I am a PhD Candidate in Policy Analysis at the Pardee RAND Graduate School, and an Assistant Policy Researcher at the RAND Corporation. My area of specialization is health policy. I work on studies in both US and international contexts, and often use insights from economics to guide my research.
+My research interest lies in health care payment policy and the economic behavior of hospitals. Recently I have also become interested in behavioral factors that underlie physician decision making.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://dhan1024.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://dhan1024.github.io/home/contact/</guid>
+      <description>Email: dhan@rand.org &amp;nbsp; | &amp;nbsp; handan2009@gmail.com
+Phone: +1 (310)393-0411 ext.6106
+Office Address: 1776 Main Street, Santa Monica, CA 90407
+RAND Profile Page: Link</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://dhan1024.github.io/home/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhan1024.github.io/home/research/</guid>
+      <description>&amp;ldquo;The Impact of the 340B Drug Pricing Program on Outpatient Drug Utilitzation and Spending at Critical Access Hospitals&amp;rdquo; (Job Market Paper) Abstract [Link to paper]
+ &amp;ldquo;Hospital Financial Outcomes under the 340B Drug Pricing Program – A Tale of Two Payment Systems&amp;rdquo; (Working Paper) Abstract [Link to paper]
+ &amp;ldquo;Competence and Practice in Maternal and Child Care in Cambodia: Evidence from Vignettes and Direct Observations&amp;rdquo; with Somil Nagpal (World Bank) and Sebastian Bauhoff (Center for Global Development) (Working Paper)</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://dhan1024.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://dhan1024.github.io/home/publications/</guid>
+      <description>Mattke, Soeren, Dan Han, Asa Wilks, and Elizabeth Sloss. Medicare Home Visit Program Associated With Fewer Hospital And Nursing Home Admissions, Increased Office Visits. Health Affairs 34, no. 12 (Dec 1, 2015): 213846.
+Dan Han, Asa Wilks, and Soeren Mattke. Detection of Undiagnosed Disease in Medicare Beneficiaries After a Clinical Home Visit. Population Health Management 20, no. 1 (Apr 28, 2016): 4147.
+Newberry, Sydne J., John D. FitzGerald, Aneesa Motala, Marika Booth, Margaret A.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://dhan1024.github.io/home/cv/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://dhan1024.github.io/home/cv/</guid>
+      <description>Download my CV here: CV
+(Updated August 2018)</description>
+    </item>
+    
+  </channel>
+</rss>
