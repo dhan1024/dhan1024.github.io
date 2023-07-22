@@ -1,13 +1,8 @@
+.container {
+    max-width: 1000px;
+}
 
-.home-section {
-    padding: 26px 0 26px 0;
-  }
-
-nav#navbar-main li {
-   font-size: 18px;
-  }
-
-h1, h2, h3, h4, h5, h6 {
-   font-size: 22px;
-  }
+.sidebar {
+	max-width: 500px;
+}
 
