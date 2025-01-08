@@ -169,6 +169,7 @@ footer {
 .sidebar a,
 .sidebar-about h1 {
   color: #fff;
+  line-height: 26px;
 }
 
 footer a,
