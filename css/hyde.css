@@ -82,8 +82,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-size: 2.25rem;
-  font-weight: 400;
+  font-size: 2rem;
+  font-weight: bold;
 }
 
 /* Sidebar nav */
@@ -161,7 +161,7 @@ footer {
   margin-right: auto;
 }
 
-.sidebar {
+.sidebar h2 {
   background-color: #49757a;
   color: #fff;
 }

@@ -12,11 +12,29 @@
     
     <item>
       <title></title>
+      <link>https://dhan1024.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhan1024.github.io/cv/</guid>
+      <description>Contact Email: spphd@nus.edu.sg Faculty webpage: https://lkyspp.nus.edu.sg/our-people/faculty/han-dan Office address:  Lee Kuan Yew School of Public Policy</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://dhan1024.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhan1024.github.io/publication/</guid>
+      <description>Publications Han, Dan, Emma Clarke-Deelder, Nora Miller et al. Health Care Provider Decision-Making and the Quality of Maternity Care: An Analysis of Postpartum Care in Kenyan Hospitals.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://dhan1024.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dhan1024.github.io/research/</guid>
-      <description>Publications Han, Dan, Emma Clarke-Deelder, Nora Miller et al. Health Care Provider Decision-Making and the Quality of Maternity Care: An Analysis of Postpartum Care in Kenyan Hospitals.</description>
+      <description>Working Papers “Workload and Team Performance,&amp;rdquo; with Margaret McConnell and Emma Clarke-Deelder  Excessive provider workload can lead to changes in care procedures in ways that affect patient outcomes.</description>
     </item>
     
     <item>
@@ -25,25 +43,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dhan1024.github.io/teaching/</guid>
-      <description>Teaching at Lee Kuan Yew School of Public Policy Core  Policy Challenges: Academic Year 2020/21, 2021/22, 2022/23 Policy Analysis Exercise (Capstone): Academic Year 2023/24, 2024/25  Electives  Health Economics and Public Policy: Academic Year 2020/21, 2021/22, 2022/23, 2023/24 Cost-Benefit Analysis in Public Policy: Academic Year 2021/22, 2022/23 Globalization Health and Human Development: Academic Year 2023/24, 2024/25  </description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://dhan1024.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dhan1024.github.io/cv/</guid>
-      <description>Download my CV here: PDF (updated January 2025)</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://dhan1024.github.io/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dhan1024.github.io/resources/</guid>
-      <description>Review of Recent Event Study and Difference-in-Differences Methods Papers Coming soon&amp;hellip;</description>
+      <description>Courses taught at the Lee Kuan Yew School Core  Policy Challenges: Spring 2021, Spring 2022, Spring 2023 Policy Analysis Exercise (Capstone): Spring 2024, Spring 2025  Electives  Health Economics and Public Policy: Spring 2021, Fall 2021, Fall 2022, Fall 2023, Fall 2024 Cost-Benefit Analysis in Public Policy: Spring 2022, Spring 2023 Globalization Health and Human Development: Spring 2024, Spring 2025  </description>
     </item>
     
   </channel>
