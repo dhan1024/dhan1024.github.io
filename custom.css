@@ -1,0 +1,13 @@
+/* Force color for all <summary> text */
+details summary {
+  color: #224C98 !important;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+/* Override max-width for main content */
+.post-content {
+  max-width: 800px !important;  /* or any width you prefer */
+  margin: 0 auto;
+}
